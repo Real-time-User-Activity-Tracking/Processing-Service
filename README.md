@@ -197,4 +197,4 @@ docker-compose logs processing-service  # Should show retry attempts
 ### Integration with Monitoring Tools
 - **Prometheus**: Add metrics endpoint
 - **Grafana**: Create dashboards for consumer metrics
-- **ELK Stack**: Centralized logging and analysis 
+- **ELK Stack**: Centralized logging and analysis
